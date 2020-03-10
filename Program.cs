@@ -10,6 +10,11 @@ namespace project1
             Console.WriteLine("First Change!");
             Console.WriteLine("Second Change!");
             Console.WriteLine("Added at remote!");
+
+            var calculate = new Calculate();
+            int sum = calculate.addition(4, 5);
+            Console.WriteLine(sum);
+
         }
     }
 }
