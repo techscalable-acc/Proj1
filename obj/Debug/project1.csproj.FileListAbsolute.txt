@@ -1,0 +1,5 @@
+/Users/mamtajha/projects/project1/project1/bin/Debug/project1.exe
+/Users/mamtajha/projects/project1/project1/bin/Debug/project1.pdb
+/Users/mamtajha/projects/project1/project1/obj/Debug/project1.csprojAssemblyReference.cache
+/Users/mamtajha/projects/project1/project1/obj/Debug/project1.exe
+/Users/mamtajha/projects/project1/project1/obj/Debug/project1.pdb
